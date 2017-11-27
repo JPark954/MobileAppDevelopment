@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FinalProjectApp</string>
+    <string name="button1">Next Page</string>
+    <string name="button2">Previous Page</string>
+
+</resources>
